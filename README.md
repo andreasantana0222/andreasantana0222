@@ -17,7 +17,8 @@ And more...
 
 ## Find me at:
 
-https://www.linkedin.com/in/andrea-santana-0165a01b1/
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andrea-santana-0165a01b1/)
+
 <!--
 **andreasantana0222/andreasantana0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
