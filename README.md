@@ -1,9 +1,10 @@
 ### Hello My name is Malena Andrea Abugoch Santana 👋
-I am a Software Engineer, I have more than 15 years of experience.
+#I am a Software Engineer, I have more than 15 years of experience.
 
 ![https://github.com/andreasantana0222](https://github.com/andreasantana0222/andreasantana0222/blob/main/desk_banner.jpg)
 
 ## Skills:
+[![CSS3](https://img.shields.io/badge/CSS3-#1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
@@ -17,8 +18,7 @@ And more...
 
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andrea-santana-0165a01b1/)
-
+https://www.linkedin.com/in/andrea-santana-0165a01b1/
 <!--
 **andreasantana0222/andreasantana0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
