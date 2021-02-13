@@ -1,6 +1,8 @@
 ### Hello My name is Malena Andrea Abugoch Santana 👋
 I am a Software Engineer, I have more than 15 years of experience.
 
+![https://github.com/andreasantana0222](https://github.com/andreasantana0222/andreasantana0222/blob/main/desk_banner.jpg)
+
 <!--
 **andreasantana0222/andreasantana0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
