@@ -49,12 +49,16 @@ Here are some ideas to get you started:
 
 ## Table of Contents
 - [GIT](#git)
+- [HTML5](#html5)
 
 
 
 ## GIT
 
 - [GITHUB](https://github.com/)
+- [GIT COMMANDS](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/)
+
+## HTML5
 
 
 **[⬆ back to top](#table-of-contents)**
