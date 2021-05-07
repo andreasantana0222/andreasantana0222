@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 
 ## Table of Contents
 - [RoadMap](#roadmap)
+- [Icons](#icons)
 - [GIT](#git)
 - [HTML5](#html5)
 
@@ -59,7 +60,12 @@ Here are some ideas to get you started:
 - [Fullstack](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12) - For a well described step-by-step roadmap for fullstack developers.
 - [AI Expert](https://i.am.ai/roadmap/#big-data-engineer-roadmap) - For a well described step-by-step roadmap for AI Expert.
 
-## GIT
+## Icons
+
+- [Simple Icons](https://simpleicons.org/)
+- [Shields IO](https://shields.io/)
+
+## GIT [![GIT](https://img.shields.io/badge/git-181717?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
 - [GITHUB](https://github.com/)
 - [GIT COMMANDS](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/) - 10 most used Git commands
