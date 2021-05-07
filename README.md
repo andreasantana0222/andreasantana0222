@@ -45,20 +45,27 @@ Here are some ideas to get you started:
 
 ---
 # A List of Useful Resources
----
 
 ## Table of Contents
+- [RoadMap](#roadmap)
 - [GIT](#git)
 - [HTML5](#html5)
 
 
+## RoadMap
+
+- [FrontEnd](https://roadmap.sh/frontend) - For a well described step-by-step roadmap for front-end developers.
+- [BackEnd](https://roadmap.sh/backend) - For a well described step-by-step roadmap for back-end developers.
+- [Fullstack](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12) - For a well described step-by-step roadmap for fullstack developers.
+- [AI Expert](https://i.am.ai/roadmap/#big-data-engineer-roadmap) - For a well described step-by-step roadmap for AI Expert.
 
 ## GIT
 
 - [GITHUB](https://github.com/)
-- [GIT COMMANDS](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/)
+- [GIT COMMANDS](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/) - 10 most used Git commands
 
-## HTML5
+## HTML5 [![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 
+-
 
 **[⬆ back to top](#table-of-contents)**
