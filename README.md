@@ -70,8 +70,17 @@ Here are some ideas to get you started:
 - [GITHUB](https://github.com/)
 - [GIT COMMANDS](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/) - 10 most used Git commands
 
-## HTML5 [![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+## HTML5
+
+[![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 
 -
+
+
+## JavaScript
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+
+- [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) - The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
 
 **[⬆ back to top](#table-of-contents)**
