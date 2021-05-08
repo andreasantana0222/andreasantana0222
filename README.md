@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 - [Icons](#icons)
 - [GIT](#git)
 - [HTML5](#html5)
+- [JavaScript](#javascript)
 
 
 ## RoadMap
