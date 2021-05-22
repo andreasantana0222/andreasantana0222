@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 - [GIT](#git)
 - [HTML5](#html5)
 - [JavaScript](#javascript)
+- [TypeScript](#typescript)
 
 
 ## RoadMap
@@ -82,6 +83,12 @@ Here are some ideas to get you started:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
+- [RxJS](https://rxjs.dev/guide/overview) - RxJS is a library for composing asynchronous and event-based programs by using observable sequences.
 - [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) - The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
+
+## TypeScript
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-339933?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
+
 
 **[⬆ back to top](#table-of-contents)**
