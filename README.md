@@ -83,7 +83,9 @@ Here are some ideas to get you started:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
+- [NVM](https://github.com/nvm-sh/nvm) - NVM is a version manager for node.js, designed to be installed per-user, and invoked per-shell.
 - [RxJS](https://rxjs.dev/guide/overview) - RxJS is a library for composing asynchronous and event-based programs by using observable sequences.
+- [Moment.js](https://momentjs.com/) - Moment is a library for parsing, validating, manipulating, and formatting dates. 
 - [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) - The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
 
 ## TypeScript
