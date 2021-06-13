@@ -67,7 +67,9 @@ Here are some ideas to get you started:
 - [Simple Icons](https://simpleicons.org/)
 - [Shields IO](https://shields.io/)
 
-## GIT [![GIT](https://img.shields.io/badge/git-181717?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+## GIT 
+
+[![GIT](https://img.shields.io/badge/git-181717?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
 - [GITHUB](https://github.com/)
 - [GIT COMMANDS](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/) - 10 most used Git commands
@@ -87,6 +89,30 @@ Here are some ideas to get you started:
 - [RxJS](https://rxjs.dev/guide/overview) - RxJS is a library for composing asynchronous and event-based programs by using observable sequences.
 - [Moment.js](https://momentjs.com/) - Moment is a library for parsing, validating, manipulating, and formatting dates. 
 - [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) - The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
+### Express Templates
+- [Pug](https://github.com/pugjs/pug) 
+- [Haml.js](https://github.com/tj/haml.js) 
+- [EJS](https://github.com/tj/ejs) 
+- [hbs](https://github.com/pillarjs/hbs) 
+- [Squirrelly](https://github.com/squirrellyjs/squirrelly) 
+- [Eta](https://github.com/eta-dev/eta) 
+- [React](https://github.com/reactjs/express-react-views) 
+- [combyne.js](https://github.com/tbranyen/combyne) 
+- [Nunjucks](https://github.com/mozilla/nunjucks) 
+- [marko](https://github.com/marko-js/marko) 
+- [whiskers](https://github.com/gsf/whiskers.js) 
+- [Blade](https://github.com/bminer/node-blade) 
+- [Haml-Coffee](https://github.com/netzpirat/haml-coffee) 
+- [express-hbs](https://github.com/barc/express-hbs) 
+- [express-handlebars](https://github.com/express-handlebars/express-handlebars) 
+- [express-views-dom](https://github.com/AndersDJohnson/express-views-dom)
+- [rivets-server](https://github.com/AndersDJohnson/rivets-server) 
+- [LiquidJS](https://github.com/harttle/liquidjs) 
+- [express-tl](https://github.com/Drulac/express-tl) 
+- [vuexpress](https://github.com/vuexpress/vuexpress) 
+- [Twing](https://www.npmjs.com/package/twing) 
+- [Sprightly](https://www.npmjs.com/package/sprightly) 
+- [express-vue](https://github.com/express-vue/express-vue) 
 
 ## TypeScript
 
