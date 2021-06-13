@@ -89,6 +89,7 @@ Here are some ideas to get you started:
 - [RxJS](https://rxjs.dev/guide/overview) - RxJS is a library for composing asynchronous and event-based programs by using observable sequences.
 - [Moment.js](https://momentjs.com/) - Moment is a library for parsing, validating, manipulating, and formatting dates. 
 - [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) - The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
+- [NPM](https://www.npmjs.com/~andrea.santana0222) - Customized Libraries
 ### Express Templates
 - [Pug](https://github.com/pugjs/pug) 
 - [Haml.js](https://github.com/tj/haml.js) 
