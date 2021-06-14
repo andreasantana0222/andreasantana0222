@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 [![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 
--
+- [W3](https://www.w3.org/TR/2012/WD-html5-author-20120329/)
 
 
 ## JavaScript
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 - [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) - The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
 - [NPM](https://www.npmjs.com/~andrea.santana0222) - Customized Libraries
 ### Express Templates
-- [Pug](https://github.com/pugjs/pug) 
+- [Pug](https://github.com/pugjs/pug) - [PugJS](https://pugjs.org/api/getting-started.html) - [HTML-PUG](https://html-to-pug.com/)
 - [Haml.js](https://github.com/tj/haml.js) 
 - [EJS](https://github.com/tj/ejs) 
 - [hbs](https://github.com/pillarjs/hbs) 
