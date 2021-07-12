@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 [![TypeScript](https://img.shields.io/badge/TypeScript-339933?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 
 - [handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-- [express](https://developer.okta.com/blog/2018/11/15/node-express-typescript)
+- [express](https://developer.okta.com/blog/2018/11/15/node-express-typescript) - [example](https://codemonkeyjunior.wordpress.com/2019/05/12/node-js-un-sencillo-ejemplo-con-express-js/)
 
 
 **[⬆ back to top](#table-of-contents)**
